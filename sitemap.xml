@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://blog.dyfnb.xyz/about/index.html</loc>
     
-    <lastmod>2022-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/696c4f2e.html</loc>
-    
-    <lastmod>2022-11-28</lastmod>
+    <lastmod>2022-11-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://blog.dyfnb.xyz/posts/4a17b156.html</loc>
+    
+    <lastmod>2022-11-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dyfnb.xyz/posts/696c4f2e.html</loc>
+    
+    <lastmod>2022-11-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dyfnb.xyz/link/index.html</loc>
     
     <lastmod>2022-11-27</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://blog.dyfnb.xyz/tags/index.html</loc>
     
     <lastmod>2022-11-27</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://blog.dyfnb.xyz/categories/index.html</loc>
     
     <lastmod>2022-11-27</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://blog.dyfnb.xyz/manifest.json</loc>
     
     <lastmod>2022-11-27</lastmod>
     
@@ -57,44 +66,37 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <loc>https://blog.dyfnb.xyz/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/aaa/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <loc>https://blog.dyfnb.xyz/tags/Java/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/bbb/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <loc>https://blog.dyfnb.xyz/tags/MySql/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/ccc/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <loc>https://blog.dyfnb.xyz/tags/hexo/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/ddd/</loc>
-    <lastmod>2022-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/eee/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <loc>https://blog.dyfnb.xyz/tags/Butterfly/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,8 +104,15 @@
 
   
   <url>
-    <loc>http://example.com/categories/categories/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <loc>https://blog.dyfnb.xyz/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dyfnb.xyz/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

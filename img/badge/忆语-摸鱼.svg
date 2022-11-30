@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="20" aria-label="忆语-上班摸鱼中">
+<linearGradient id="a" x2="0" y2="100%"><stop offset="0" stop-color="#fcfcfc" stop-opacity="0"/><stop offset="1" stop-opacity=".1"/></linearGradient><g stroke="#d5d5d5">
+<rect fill="#fcfcfc" x=".5" y=".5" width="60" height="19" rx="2" stroke="none"/><rect x="66.5" y=".5" width="63" height="19" rx="2" fill="#fafafa"/><path stroke="#fafafa" d="M66 7.5h.5v5H66z"/>
+<path d="m66.5 6.5-3 3v1l3 3" stroke="d5d5d5" fill="#fafafa"/></g>
+<image x="5" y="3" width="14" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAdtJREFUOE+lk01IVGEUhp9vbos7urHyX4S5aJncEZMB8ydrrguF2WlUoog/KxcWETFRBOkiDA0kBaOFIu0konWIpVCIUVQLhZTJMSREGzdiPxjzxTfOjSnuDEgfnM13zvvynvOeI/jPJw6Kl4PUIdHFdaYVNhnBeeB4PCJACHgPvJJDdCFwi2uMORG8AXzAY2A5HkeBIqAqnusH+mzliQok8FcySXtvgXmgN1GBkqzigg2aC/8IRKOySQhRKZHHgG1gBaJTlpH+wG7fVnA4XnAZGJ0J7fa5XK7bTgom798htPRh++7IhOf0iaydxBZqgXGgpOPKLbJzC8jKKyCyucGXtU8svltg9eMiDU2t9NwcUNyWZbhnYwRyAA8afhFkErihp6Vd9fqqM4tKy9Dd6WQcyaTYLMfrq7ZFLViGWw1130Y5TAZ7eESQYWBOTfl5+FuzkOIS4LdRpa+7f20YnU9OVja2OLmg/iaAz7ZNs+Hvj6Sk3S7OXx1fj+RY5TWmqQYae06LFIQYaD1wsdPUtEOFXl8VDc1tMYCm69ln8sRWKgKVuwdsVdT6v3orTtWfDZzLMUrMl8Klzdcb+rNEd5Kt8kPgJ/ACeJrqXlIdkxqeij9r60R04Gv8l+Q3dFp3Edn7B+0AAAAASUVORK5CYII="/>
+<g aria-hidden="true" fill="#333" text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" text-rendering="geometricPrecision" font-weight="700" font-size="110"><rect stroke="#d5d5d5" fill="url(#a)" x=".5" y=".5" width="60" height="19" rx="2"/>
+<text aria-hidden="true" x="385" y="150" fill="#fff" transform="scale(.1)" textLength="220">忆语</text><text x="385" y="140" transform="scale(.1)" textLength="220">忆语</text>
+<text aria-hidden="true" x="975" y="150" fill="#fff" transform="scale(.1)" textLength="330">摸鱼中</text>
+<text x="975" y="140" transform="scale(.1)" textLength="330">摸鱼中</text></g>
+</svg>
+
