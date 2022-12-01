@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.dyfnb.xyz/baidu_verify_code-27ufQc9E7B.html</loc>
-    
-    <lastmod>2022-12-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.dyfnb.xyz/manifest.json</loc>
     
     <lastmod>2022-11-30</lastmod>
@@ -83,20 +74,6 @@
 
   
   <url>
-    <loc>https://blog.dyfnb.xyz/tags/hexo/</loc>
-    <lastmod>2022-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.dyfnb.xyz/tags/Butterfly/</loc>
-    <lastmod>2022-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.dyfnb.xyz/tags/Java/</loc>
     <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,17 +87,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://blog.dyfnb.xyz/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://blog.dyfnb.xyz/tags/hexo/</loc>
     <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://blog.dyfnb.xyz/tags/Butterfly/</loc>
+    <lastmod>2022-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://blog.dyfnb.xyz/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2022-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dyfnb.xyz/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
