@@ -92,20 +92,6 @@
 
   
   <url>
-    <loc>https://blog.dyfnb.xyz/tags/hexo/</loc>
-    <lastmod>2022-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.dyfnb.xyz/tags/Butterfly/</loc>
-    <lastmod>2022-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.dyfnb.xyz/tags/docker/</loc>
     <lastmod>2022-12-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,6 +100,20 @@
   
   <url>
     <loc>https://blog.dyfnb.xyz/tags/linux/</loc>
+    <lastmod>2022-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dyfnb.xyz/tags/hexo/</loc>
+    <lastmod>2022-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dyfnb.xyz/tags/Butterfly/</loc>
     <lastmod>2022-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -129,14 +129,14 @@
 
   
   <url>
-    <loc>https://blog.dyfnb.xyz/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://blog.dyfnb.xyz/categories/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2022-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
