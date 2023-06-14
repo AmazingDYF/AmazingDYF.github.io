@@ -222,11 +222,11 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
+    <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
     
     <category term="linux" scheme="https://blog.dyfnb.xyz/tags/linux/"/>
     
-    <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
+    <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
     
     <category term="nacos" scheme="https://blog.dyfnb.xyz/tags/nacos/"/>
     
@@ -252,9 +252,9 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="linux" scheme="https://blog.dyfnb.xyz/tags/linux/"/>
-    
     <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
+    
+    <category term="linux" scheme="https://blog.dyfnb.xyz/tags/linux/"/>
     
   </entry>
   
