@@ -138,9 +138,9 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="spring cloud" scheme="https://blog.dyfnb.xyz/tags/spring-cloud/"/>
-    
     <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
+    
+    <category term="spring cloud" scheme="https://blog.dyfnb.xyz/tags/spring-cloud/"/>
     
     <category term="sentinel" scheme="https://blog.dyfnb.xyz/tags/sentinel/"/>
     
@@ -166,9 +166,9 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="spring cloud" scheme="https://blog.dyfnb.xyz/tags/spring-cloud/"/>
-    
     <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
+    
+    <category term="spring cloud" scheme="https://blog.dyfnb.xyz/tags/spring-cloud/"/>
     
     <category term="gateway" scheme="https://blog.dyfnb.xyz/tags/gateway/"/>
     
@@ -194,11 +194,11 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="spring cloud" scheme="https://blog.dyfnb.xyz/tags/spring-cloud/"/>
+    <category term="feign" scheme="https://blog.dyfnb.xyz/tags/feign/"/>
     
     <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
     
-    <category term="feign" scheme="https://blog.dyfnb.xyz/tags/feign/"/>
+    <category term="spring cloud" scheme="https://blog.dyfnb.xyz/tags/spring-cloud/"/>
     
   </entry>
   
@@ -222,11 +222,11 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
+    <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
     
     <category term="linux" scheme="https://blog.dyfnb.xyz/tags/linux/"/>
     
-    <category term="java" scheme="https://blog.dyfnb.xyz/tags/java/"/>
+    <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
     
     <category term="nacos" scheme="https://blog.dyfnb.xyz/tags/nacos/"/>
     
@@ -252,9 +252,9 @@
     <category term="笔记" scheme="https://blog.dyfnb.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
-    
     <category term="linux" scheme="https://blog.dyfnb.xyz/tags/linux/"/>
+    
+    <category term="docker" scheme="https://blog.dyfnb.xyz/tags/docker/"/>
     
   </entry>
   
